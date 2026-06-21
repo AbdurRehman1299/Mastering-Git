@@ -4,3 +4,4 @@
 - This line is coming from `seperate-branch`
 - This is a `merge conflict` line
 - I'm solving an urgent issue in production
+- This is the use of `git stash`
