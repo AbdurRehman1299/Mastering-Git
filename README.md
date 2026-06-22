@@ -5,3 +5,4 @@
 - This is a `merge conflict` line
 - I'm solving an urgent issue in production
 - This is the use of `git stash`
+- This is to get a `badge`
